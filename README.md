@@ -12,6 +12,10 @@ This project is part of the **AAI-501-02 course** in the Applied Artificial Inte
 - Hassaan Abbasi
 
 ## Methods Used
+- Data Cleaning & Preparation
+- Exploratory Data Analysis
+- Data visualizations
+-  Supervised/Unsupervised Machine learning
 
 ## Technologies
 - Python  
