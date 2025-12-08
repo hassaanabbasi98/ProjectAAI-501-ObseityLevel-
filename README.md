@@ -2,7 +2,7 @@
 
 This project is part of the **AAI-501-02 course** in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
--- Project Status: Active
+-- Project Status: Completed
 
 
 ## Installation
